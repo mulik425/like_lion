@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/like-lion/static/js/main.b2df9f23.js",
+    "main.css": "/like-lion/static/css/main.1189fcaf.css",
+    "main.js": "/like-lion/static/js/main.ff9caba6.js",
     "index.html": "/like-lion/index.html",
-    "main.b2df9f23.js.map": "/like-lion/static/js/main.b2df9f23.js.map"
+    "main.1189fcaf.css.map": "/like-lion/static/css/main.1189fcaf.css.map",
+    "main.ff9caba6.js.map": "/like-lion/static/js/main.ff9caba6.js.map"
   },
   "entrypoints": [
-    "static/js/main.b2df9f23.js"
+    "static/css/main.1189fcaf.css",
+    "static/js/main.ff9caba6.js"
   ]
 }
