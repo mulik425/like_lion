@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/like-lion/static/css/main.1189fcaf.css",
-    "main.js": "/like-lion/static/js/main.ff9caba6.js",
-    "index.html": "/like-lion/index.html",
-    "main.1189fcaf.css.map": "/like-lion/static/css/main.1189fcaf.css.map",
-    "main.ff9caba6.js.map": "/like-lion/static/js/main.ff9caba6.js.map"
+    "main.css": "/like_lion/static/css/main.1189fcaf.css",
+    "main.js": "/like_lion/static/js/main.ff9caba6.js",
+    "index.html": "/like_lion/index.html",
+    "main.1189fcaf.css.map": "/like_lion/static/css/main.1189fcaf.css.map",
+    "main.ff9caba6.js.map": "/like_lion/static/js/main.ff9caba6.js.map"
   },
   "entrypoints": [
     "static/css/main.1189fcaf.css",
